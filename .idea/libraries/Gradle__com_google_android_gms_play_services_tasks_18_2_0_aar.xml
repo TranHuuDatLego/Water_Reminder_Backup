@@ -7,6 +7,8 @@
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-tasks/18.2.0/f516720cfade7dc3a12716b3e70c2fcd938713d3/play-services-tasks-18.2.0-javadoc.jar!/" />
     </JAVADOC>
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/8.11.1/transforms/f53040b03d4fcc5b06ab2cc00c688912/transformed/play-services-tasks-18.2.0/jars/classes.jar!/" />
+    </SOURCES>
   </library>
 </component>
